@@ -1,0 +1,7 @@
+BSSID=
+CHANNEL=
+NETNAME=
+
+
+STATEFILE=state
+DUMPFILE=out-01.csv
